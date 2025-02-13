@@ -1,3 +1,3 @@
 # Belajar--Kolaborasi
-Belajar Github di Dicoding sangat menyenangkan!
-Menambahkan data
+- Belajar Github di Dicoding sangat menyenangkan!
+- Menambahkan data
