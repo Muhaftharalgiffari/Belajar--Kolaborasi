@@ -2,3 +2,4 @@
 - Belajar Github di Dicoding sangat menyenangkan!
 - Menambahkan data
 - test
+- test2
